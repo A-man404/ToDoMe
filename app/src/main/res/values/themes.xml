@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MySplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#141212</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/splash_screen_icon_round</item>
+        <item name="postSplashScreenTheme">@style/Theme.Todo</item>
+    </style>
+
+    <style name="Theme.Todo" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

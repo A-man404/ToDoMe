@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--    gruvbox-->
+    <color name="bg">#282828</color>
+    <color name="red">#cc241d</color>
+    <color name="green">#98971a</color>
+    <color name="yellow">#d79921</color>
+    <color name="blue">#458588</color>
+    <color name="purple">#b16286</color>
+    <color name="aqua">#689d6a</color>
+    <color name="gray">#a89984</color>
+    <color name="gray_variant">#928374</color>
+    <color name="red_variant">#fb4934</color>
+    <color name="green_variant">#b8bb26</color>
+    <color name="yellow_variant">#fabd2f</color>
+    <color name="blue_variant">#83a598</color>
+    <color name="purple_variant">#d3869b</color>
+    <color name="aqua_variant">#8ec07c</color>
+    <color name="fg">#ebdbb2</color>
+    <color name="bg0_h">#1d2021</color>
+    <color name="bg0">#282828</color>
+    <color name="bg1">#3c3836</color>
+    <color name="bg2">#504945</color>
+    <color name="bg3">#665c54</color>
+    <color name="gray_dark">#928374</color>
+    <color name="orange">#d65d0e</color>
+    <color name="bg0_s">#32302f</color>
+    <color name="fg4">#a89984</color>
+    <color name="fg3">#bdae93</color>
+    <color name="fg2">#d5c4a1</color>
+    <color name="fg1">#ebdbb2</color>
+    <color name="fg0">#fbf1c7</color>
+    <color name="orange_light">#fe8019</color>
+</resources>
