@@ -15,7 +15,9 @@ TodoMe is a minimalistic, user-friendly todo management app built using Jetpack 
 ## Screenshots
 | Add/Edit Task Screen | Settings Screen |
 |----------------------|-----------------|
-| ![Main Screen](assets/main_page.jpg) | ![Settings Screen](path/to/settings_screenshot.png) |
+| ![Main Screen](<img src="./assets/main_page.jpg" alt="Main Page" width="180"/>
+) | ![Settings Screen](<img src="./assets/info_page.jpg" alt="Info Page" width="180"/>
+) |
 
 ## Tech Stack
 - **Programming Language**: Kotlin
