@@ -57,6 +57,15 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 For any queries or suggestions, please contact:
 - **Email**: amansaini04a@gmail.com
 
+## Releases
+You can download the latest version of the app from the [Release v1.0](https://github.com/A-man404/ToDoMe/releases/tag/v1.0).
+
+## Support Me
+
+If you like this project, consider supporting me with a coffee! ☕️  
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.svg)](https://buymeacoffee.com/aman010)
+
+
 ---
 Thank you for using TodoMe! ENJOY!!
 
