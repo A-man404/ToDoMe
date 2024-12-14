@@ -66,6 +66,3 @@ If you like this project, consider supporting me with a coffee! ☕️
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.svg)](https://buymeacoffee.com/aman010)
 
 
----
-Thank you for using TodoMe! ENJOY!!
-
